@@ -16,5 +16,16 @@
         android:text="添加book的数据"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"></Button>
+    <Button
+        android:id="@+id/bt_computer"
+        android:text="computer的add方法"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"></Button>
+
+    <Button
+        android:id="@+id/bt_securitycenter"
+        android:text="SecurityCenter的加密方法"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"></Button>
 
 </LinearLayout>
